@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deloragaskins
-- 👀 I’m interested in pharmaceutical chemistry and machine learning
+- 👀 I’m interested in pattern formation, pharmaceutical and environmental chemistry, and machine learning
 - 🌱 I’m currently learning rdkit
 - 💞️ I’m looking to collaborate on chemical education, drug-design
 
